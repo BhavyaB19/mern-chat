@@ -10,7 +10,7 @@ Supports real-time messaging, authentication, multiple chat rooms, and persisten
 <ul>
   <li>💬 Real-time messaging with <code>Socket.IO</code></li>
   <li>👤 User authentication & registration</li>
-  <li>📨 Private chats and group rooms</li>
+  <li>📨 Private chats</li>
   <li>🗂️ Persistent chat history (MongoDB)</li>
   <li>🔔 Online/offline status</li>
   <li>⚡ REST API + WebSocket integration</li>
